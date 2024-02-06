@@ -4,6 +4,8 @@ description: A retired guy keeping his brain active with C++
 
 baseurl: ""
 
+markdown: GFM
+
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
@@ -15,6 +17,12 @@ kramdown:
 
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+
+footer-links:
+  twitter: rmerriam
+  linkedin: www.linkedin.com/in/rud-merriam
+
+
 
 
 # from https://github.com/barryclark/jekyll-now/blob/master/_config.yml
